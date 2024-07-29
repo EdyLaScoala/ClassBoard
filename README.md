@@ -37,3 +37,8 @@
   ·	win32api, win32con, win32gui - toate contribuie la gestionarea celor 2 ecrane BOARD,MENU
 </p>
 </h3>
+
+<h6>
+  Cazan Rares-Bogdan - Liceul Teoretic Mihai Eminescu Cluj-Napoca
+  Eduard Balasea     - Liceul Teoretic Mihai Eminescu Cluj-Napoca
+</h6>
