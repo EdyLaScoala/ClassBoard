@@ -39,6 +39,6 @@
 </h3>
 
 <h6>
-  Cazan Rares-Bogdan - Liceul Teoretic Mihai Eminescu Cluj-Napoca
+  Cazan Rares-Bogdan - Liceul Teoretic Mihai Eminescu Cluj-Napoca <br>
   Eduard Balasea     - Liceul Teoretic Mihai Eminescu Cluj-Napoca
 </h6>
